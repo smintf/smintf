@@ -1,4 +1,7 @@
-# Hi There Person Looking At My Github Profile, My Name Is Smint
-## I'm Mainly A Person Who Likes To Reverse Engineer And Do Random Things With Code, So I Usually Break Stuff. I'm Currently Learning Python, Java, NodeJS & Vanilla Javascript
-<!--
-**SmintOverflow/SmintOverflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -–!>
+# Smint
+
+Hi! I'm just a random person on here. I'm pretty dumb at programming but does it really matter?
+
+My main thing of right now is playing Block Game (also known as "Minecraft") and making pwa's and learning NodeJS.
+
+Feel free to take a look around my profile or crap. If you need to contact me (insert whatever reason), I prefer either Discord (Smint#1661) or Twitter (https://twitter.com/smintf). Otherwise, enjoy my mess of an account ¯\_(ツ)_/¯
