@@ -1,4 +1,4 @@
-### Hello i'm Smint! | ![Profile Views](https://komarev.com/ghpvc/?username=smintf&style=circle) <br>
+### Hello i'm Smint!   ![Profile Views](https://komarev.com/ghpvc/?username=smintf&style=circle) <br>
 
 ### I Code in -
 <a href="https://github.com/smintf" target="_blank" rel="noreferrer">
