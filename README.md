@@ -1,5 +1,5 @@
 
-<h1>i'm smint </h1> ![Profile Views](https://komarev.com/ghpvc/?username=smintf&style=circle) <br>
+# i'm smint ![Profile Views](https://komarev.com/ghpvc/?username=smintf&style=circle) <br>
 
 <a href="https://smint.cf" target="_blank"> website</a>  |
 <a href="https://discordid.netlify.app/?id=543813353454436368" target="_blank">discord</a>  |
