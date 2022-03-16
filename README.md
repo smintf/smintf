@@ -9,7 +9,7 @@
 <summary><strong>github stats</strong></summary>
 
 #### streak
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smintf&background=7FCFDD&ring=3693DD&fire=3693DD&currStreakNum=000000&currStreakLabel=3693DD)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smintf&background=7FCFDD&ring=3693DD&fire=3693DD&currStreakNum=000000&currStreakLabel=3693DD)](https://git.io/streak-stats)
 
 #### metrics
 ![Metrics](https://github.com/smintf/smintf/blob/master/github-metrics.svg)
