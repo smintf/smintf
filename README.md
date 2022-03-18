@@ -1,10 +1,12 @@
 
-# i'm smint ![Profile Views](https://komarev.com/ghpvc/?username=smintf&style=circle) <br>
+<h1> i'm smint
+  <img src="https://komarev.com/ghpvc/?username=smintf&style=circle"/> </h1>
 
 <a href="https://smint.cf" target="_blank"> website</a>  |
 <a href="https://discordid.netlify.app/?id=543813353454436368" target="_blank">discord</a>  |
-<a href="https://keybase.io/smintf" target="_blank">keybase</a>          
-
+<a href="https://keybase.io/smintf" target="_blank">keybase</a>
+<p> </p>
+<img width="100" height="100" src="https://user-images.githubusercontent.com/79518089/141609256-ddcafafa-dca0-4cc3-b203-008e441ae2a2.gif">
 <details>
 <summary><strong>stats</strong></summary>
 
