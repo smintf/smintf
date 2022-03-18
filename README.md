@@ -6,7 +6,7 @@
 <a href="https://discordid.netlify.app/?id=543813353454436368" target="_blank">discord</a>  |
 <a href="https://keybase.io/smintf" target="_blank">keybase</a>
 <p> </p>
-<img width="100" height="100" src="https://user-images.githubusercontent.com/79518089/141609256-ddcafafa-dca0-4cc3-b203-008e441ae2a2.gif">
+<img width="100" height="100" src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif">
 <details>
 <summary><strong>stats</strong></summary>
 
