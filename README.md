@@ -1,6 +1,6 @@
 
 <h1> i'm smint
-  <img src="https://komarev.com/ghpvc/?username=smintf&style=circle"/> </h1>
+  <img src="https://komarev.com/ghpvc/?username=smintf"/> </h1>
 
 <a href="https://smint.cf" target="_blank"> website</a>  |
 <a href="https://discordid.netlify.app/?id=543813353454436368" target="_blank">discord</a>  |
