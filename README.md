@@ -40,3 +40,13 @@
 [![autolingo](https://github-readme-stats.vercel.app/api/pin/?username=smintf&repo=ach&theme=github_dark)](https://github.com/smintf/ach)
 
 </details>
+
+<details>
+<summary><strong>other git hosts</strong></summary>
+<a href="https://gitlab.com/smint/" target="_blank">Gitlab (Smint)</a>
+<br>
+<a href="https://bitbucket.org/smintf/" target="_blank">Bitbucket (Smintf)</a>
+<br>
+<a href="https://gitdab.com/smint/" target="_blank">Gitdab (Smint)</a>
+<br>
+</details>
