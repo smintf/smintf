@@ -1,0 +1,18 @@
+name: Snake
+
+on:
+  schedule: # execute every 6 hours
+    - cron: "* * * * *"
+  workflow_dispatch:
+
+jobs:
+  github-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v1.1.0
+        with:
+        
+          # Options
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: github-snake.svg
+          snake_color: 'blue'
