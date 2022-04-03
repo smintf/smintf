@@ -9,7 +9,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
         run: |-
           git config --global user.email "smintoverflow@gmail.com"
           git config --global user.name "smintf"
