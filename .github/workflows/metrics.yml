@@ -9,9 +9,6 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-        run: |-
-          git config --global user.email "smintoverflow@gmail.com"
-          git config --global user.name "smintf"
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
