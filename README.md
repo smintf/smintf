@@ -1,10 +1,16 @@
 
-<h1> i'm smint
-  <img src="https://komarev.com/ghpvc/?username=smintf"/> </h1>
+<h1> i'm smint  
+  <a href="https://wakatime.com/@c14eef81-75e9-43ac-b5ed-79280ab33884">
+    <img src="https://wakatime.com/badge/user/c14eef81-75e9-43ac-b5ed-79280ab33884.svg" alt="Total time coded since Mar 16 2022"/>
+  </a> 
+</img>
+  <img src="https://komarev.com/ghpvc/?username=smintf"/> 
+</h1>
 
 <a href="https://smint.cf" target="_blank"> website</a>  |
 <a href="https://discordid.netlify.app/?id=825013442804580404" target="_blank">discord</a>  |
-<a href="https://keybase.io/smintf" target="_blank">keybase</a>
+<a href="https://keybase.io/smintf" target="_blank">keybase</a>  |
+<a href="https://wakatime.com/@c14eef81-75e9-43ac-b5ed-79280ab33884" target="_blank">wakatime</a>
 <p> </p>
 <img width="100" height="100" src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif">
 <details>
