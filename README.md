@@ -36,11 +36,20 @@
 #### autolingo
 [![autolingo](https://github-readme-stats.vercel.app/api/pin/?username=smintf&repo=autolingo&theme=github_dark)](https://github.com/smintf/autolingo)
 
+#### horion
+[![horion](https://github-readme-stats.vercel.app/api/pin/?username=smintf&repo=horion&theme=github_dark)](https://github.com/smintf/horion)  
+  
+#### fontawesomepro
+[![fontawesomepro](https://github-readme-stats.vercel.app/api/pin/?username=smintf&repo=FontawesomePro&theme=github_dark)](https://github.com/smintf/FontawesomePro)  
+  
 #### duohacker
 [![duohacker](https://github-readme-stats.vercel.app/api/pin/?username=smintf&repo=duohacker&theme=github_dark)](https://github.com/smintf/duohacker)
 
 #### brh
 [![autolingo](https://github-readme-stats.vercel.app/api/pin/?username=smintf&repo=brh&theme=github_dark)](https://github.com/smintf/brh)
+
+#### clang-format-all
+[![clang-format-all](https://github-readme-stats.vercel.app/api/pin/?username=smintf&repo=clang-format-all&theme=github_dark)](https://github.com/smintf/clang-format-all)
 
 #### ach
 [![autolingo](https://github-readme-stats.vercel.app/api/pin/?username=smintf&repo=ach&theme=github_dark)](https://github.com/smintf/ach)
