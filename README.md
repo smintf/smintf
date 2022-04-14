@@ -25,6 +25,9 @@
 #### metrics
 ![Metrics](https://github.com/smintf/smintf/blob/master/github-metrics.svg)
 
+### activity graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=smintf&theme=nord)   
+ 
 #### discord
 [![Discord Status](https://lanyard.cnrad.dev/api/825013442804580404?theme=dark&animated=true&borderRadius=10px&idleMessage=Do%20The%20Right%20Thing.&hideBadges=true)](https://discord.com/users/825013442804580404)
 
