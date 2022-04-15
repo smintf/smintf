@@ -25,6 +25,9 @@
 #### metrics
 ![Metrics](https://github.com/smintf/smintf/blob/master/github-metrics.svg)
 
+#### trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
+  
 ### activity graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=smintf&theme=nord)   
  
