@@ -73,3 +73,27 @@
 <summary><strong>octoring</strong></summary>
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/smintf/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/smintf/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/smintf/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 </details>
+
+<details>
+
+### if you're bored, you can play some 2048 here :D
+
+##### this is a public game and anyone can play
+
+<!-- 2048GameBoard -->
+<img src="https://github.com/smintf/smintf/blob/main/Data/gameboard.png" width="500"/>
+<!-- 2048GameBoard -->
+
+<!-- 2048GameActions -->
+<a href="https://github.com/smintf/smintf/issues/new?title=2048|slideUp&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideUp.png"/> </a> <a href="https://github.com/smintf/smintf/issues/new?title=2048|slideDown&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideDown.png"/> </a> <a href="https://github.com/smintf/smintf/issues/new?title=2048|slideLeft&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideLeft.png"/> </a> <a href="https://github.com/smintf/smintf/issues/new?title=2048|slideRight&body=Just+push+'Submit+new+issue'.+You+don't+need+to+do+anything+else."> <img src="Assets/slideRight.png"/> </a>
+<!-- 2048GameActions -->
+
+## Leaderboard
+
+<!-- 2048Ranking -->
+| Players | Actions |
+|---------------|:---------:|
+| [@ghost](https://github.com/ghost) | 0 |
+<!-- 2048Ranking -->
+
+</details>
