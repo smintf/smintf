@@ -20,15 +20,15 @@ def main():
     issueType = issueArguments[1]
 
     # Prevent from playing twice in a row
-    currentFile = open("Data/Games/current.json", "r", encoding="utf-8")
-    current = json.load(currentFile)
-    currentFile.close()
-    if len(current["moves"]) > 0:
-        if current["moves"][-1] == issueAuthor:
-            # Reply and close the issue
-            issue.create_comment(f"{issueAuthor} You cannot play two times in a row!")
-            issue.edit(state='closed', labels=["invalid"])
-            return
+#    currentFile = open("Data/Games/current.json", "r", encoding="utf-8")
+#    current = json.load(currentFile)
+#    currentFile.close()
+#    if len(current["moves"]) > 0:
+#        if current["moves"][-1] == issueAuthor:
+#            # Reply and close the issue
+#            issue.create_comment(f"{issueAuthor} You cannot play two times in a row!")
+#            issue.edit(state='closed', labels=["invalid"])
+#            return
 
     if issueType == "newgame":
         newGame(issue, issueAuthor)
@@ -311,7 +311,7 @@ def updateRanking(issueAuthor):
         topMovesRead2 = json.dumps(topMovesRead, indent=4, ensure_ascii=False) # Convert the object to json
         _topMovesWrite.write(topMovesRead2)
 
-    # Update the ranking (makdown)
+    # Update the ranking (markdown)
     # Change the actions
     readme =  open("README.md", "r", encoding="utf-8")
     readme = readme.read()
