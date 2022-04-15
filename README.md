@@ -75,13 +75,14 @@
 </details>
 
 <details>
+<summary><strong>2048</strong></summary>
 
 ### if you're bored, you can play some 2048 here :D
 
 ##### this is a public game and anyone can play
 
 <!-- 2048GameBoard -->
-<img src="https://github.com/smintf/smintf/blob/main/Data/gameboard.png" width="500"/>
+<img src="https://github.com/smintf/smintf/blob/master/Data/gameboard.png" width="500"/>
 <!-- 2048GameBoard -->
 
 <!-- 2048GameActions -->
