@@ -3,7 +3,13 @@
         [
             null,
             null,
+            null,
+            null
+        ],
+        [
             2,
+            null,
+            null,
             null
         ],
         [
@@ -15,19 +21,14 @@
         [
             4,
             null,
-            null,
-            null
-        ],
-        [
-            null,
-            null,
-            null,
+            2,
             null
         ]
     ],
     "score": 4,
     "bestScore": 0,
     "moves": [
+        "@smintf",
         "@smintf",
         "@smintf"
     ]
