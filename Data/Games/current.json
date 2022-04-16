@@ -4,11 +4,11 @@
             null,
             null,
             null,
-            2
+            null
         ],
         [
             null,
-            null,
+            2,
             null,
             null
         ],
@@ -22,12 +22,13 @@
             16,
             4,
             null,
-            null
+            2
         ]
     ],
     "score": 52,
     "bestScore": 0,
     "moves": [
+        "@smintf",
         "@smintf",
         "@smintf",
         "@smintf",
