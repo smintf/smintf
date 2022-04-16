@@ -9,7 +9,7 @@
 
 <a href="https://smint.cf" target="_blank"> website</a>  |
 <a href="https://discordid.netlify.app/?id=825013442804580404" target="_blank">discord</a>  |
-<a href="https://keybase.io/smintf" target="_blank">keybase</a>  |
+<a href="https://keybase.io/smintf" target="_blank">keybase</a>
 <p> </p>
 <img width="100" height="100" src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif">
 <details>
