@@ -35,7 +35,7 @@
 
 </details>
 
-<details>
+<!--- <details>
 <summary><strong>projects</strong></summary>
 
 #### autolingo
@@ -59,7 +59,7 @@
 #### ach
 [![autolingo](https://github-readme-stats.vercel.app/api/pin/?username=smintf&repo=ach&theme=github_dark)](https://github.com/smintf/ach)
 
-</details>
+</details> -->
 
 <!--- <details>
 <summary><strong>other git hosts</strong></summary>
