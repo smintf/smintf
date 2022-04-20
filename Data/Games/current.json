@@ -8,26 +8,27 @@
         ],
         [
             null,
-            2,
+            null,
             null,
             null
         ],
         [
             2,
-            2,
             null,
-            null
+            null,
+            2
         ],
         [
             16,
-            4,
+            8,
             null,
             2
         ]
     ],
-    "score": 52,
+    "score": 64,
     "bestScore": 0,
     "moves": [
+        "@smintf",
         "@smintf",
         "@smintf",
         "@smintf",
