@@ -96,7 +96,7 @@
 <!-- 2048Ranking -->
 | Players | Actions |
 |---------------|:---------:|
-| [@smintf](https://github.com/smintf) | 19 |
+| [@smintf](https://github.com/smintf) | 20 |
 <!-- 2048Ranking -->
 
 </details>

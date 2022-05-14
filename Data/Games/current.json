@@ -20,7 +20,7 @@
         ],
         [
             32,
-            null,
+            2,
             2,
             null
         ]
@@ -28,6 +28,7 @@
     "score": 132,
     "bestScore": 0,
     "moves": [
+        "@smintf",
         "@smintf",
         "@smintf",
         "@smintf",
