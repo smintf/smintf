@@ -1,9 +1,9 @@
 {
     "grid": [
         [
+            4,
             2,
-            2,
-            2,
+            null,
             null
         ],
         [
@@ -14,9 +14,9 @@
         ],
         [
             32,
-            null,
-            null,
-            2
+            2,
+            2,
+            null
         ],
         [
             null,
@@ -25,9 +25,10 @@
             null
         ]
     ],
-    "score": 132,
+    "score": 136,
     "bestScore": 0,
     "moves": [
+        "@smintf",
         "@smintf",
         "@smintf",
         "@smintf",
