@@ -1,33 +1,34 @@
 {
     "grid": [
         [
-            4,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
             2,
             null,
             null
         ],
         [
-            4,
+            8,
             null,
             null,
             null
         ],
         [
             32,
+            4,
             2,
-            2,
-            null
-        ],
-        [
-            null,
-            null,
-            null,
             null
         ]
     ],
-    "score": 136,
+    "score": 148,
     "bestScore": 0,
     "moves": [
+        "@smintf",
         "@smintf",
         "@smintf",
         "@smintf",
