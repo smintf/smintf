@@ -2,27 +2,27 @@
     "grid": [
         [
             null,
-            null,
-            null,
-            null
-        ],
-        [
-            null,
             2,
             null,
             null
         ],
         [
-            8,
             null,
             null,
-            null
+            null,
+            2
         ],
         [
+            null,
+            null,
+            null,
+            8
+        ],
+        [
+            null,
             32,
             4,
-            2,
-            null
+            2
         ]
     ],
     "score": 148,
@@ -50,6 +50,7 @@
         "@smintf",
         "@smintf",
         "@smintf",
-        "@smintf"
+        "@smintf",
+        "@TheRedstoneRadiant"
     ]
 }
