@@ -96,7 +96,7 @@
 <!-- 2048Ranking -->
 | Players | Actions |
 |---------------|:---------:|
-| [@smintf](https://github.com/smintf) | 23 |
+| [@smintf](https://github.com/smintf) | 24 |
 | [@TheRedstoneRadiant](https://github.com/TheRedstoneRadiant) | 2 |
 <!-- 2048Ranking -->
 
