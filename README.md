@@ -98,6 +98,7 @@
 |---------------|:---------:|
 | [@smintf](https://github.com/smintf) | 24 |
 | [@TheRedstoneRadiant](https://github.com/TheRedstoneRadiant) | 2 |
+| [@VillainsRule4000](https://github.com/VillainsRule4000) | 1 |
 <!-- 2048Ranking -->
 
 </details>

@@ -3,7 +3,7 @@
         [
             2,
             4,
-            2,
+            4,
             null
         ],
         [
@@ -13,19 +13,19 @@
             null
         ],
         [
-            2,
+            4,
             null,
-            2,
+            null,
             null
         ],
         [
-            2,
             null,
+            2,
             null,
             null
         ]
     ],
-    "score": 148,
+    "score": 156,
     "bestScore": 0,
     "moves": [
         "@smintf",
@@ -53,6 +53,7 @@
         "@smintf",
         "@TheRedstoneRadiant",
         "@TheRedstoneRadiant",
-        "@smintf"
+        "@smintf",
+        "@VillainsRule4000"
     ]
 }
