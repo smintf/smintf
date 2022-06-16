@@ -1,31 +1,31 @@
 {
     "grid": [
         [
+            null,
             2,
-            4,
+            8,
+            2
+        ],
+        [
+            null,
+            null,
+            32,
+            8
+        ],
+        [
+            null,
+            null,
             4,
             2
         ],
         [
-            32,
-            8,
             null,
-            null
-        ],
-        [
-            4,
+            null,
             2,
-            null,
-            null
-        ],
-        [
-            null,
-            null,
-            null,
             null
         ]
     ],
-    "score": 156,
+    "score": 164,
     "bestScore": 0,
     "moves": [
         "@smintf",
@@ -55,6 +55,7 @@
         "@TheRedstoneRadiant",
         "@smintf",
         "@VillainsRule4000",
-        "@VillainsRule4000"
+        "@VillainsRule4000",
+        "@some-du6e"
     ]
 }
