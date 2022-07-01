@@ -2,7 +2,7 @@
     "grid": [
         [
             null,
-            2,
+            4,
             8,
             2
         ],
@@ -16,16 +16,16 @@
             null,
             null,
             4,
-            2
+            4
         ],
         [
             null,
             2,
             null,
-            2
+            null
         ]
     ],
-    "score": 164,
+    "score": 172,
     "bestScore": 0,
     "moves": [
         "@smintf",
@@ -57,6 +57,7 @@
         "@VillainsRule4000",
         "@VillainsRule4000",
         "@some-du6e",
+        "@JoRo-Code",
         "@JoRo-Code"
     ]
 }
