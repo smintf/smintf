@@ -100,6 +100,7 @@
 | [@TheRedstoneRadiant](https://github.com/TheRedstoneRadiant) | 2 |
 | [@VillainsRule4000](https://github.com/VillainsRule4000) | 2 |
 | [@some-du6e](https://github.com/some-du6e) | 1 |
+| [@JoRo-Code](https://github.com/JoRo-Code) | 1 |
 <!-- 2048Ranking -->
 
 </details>
