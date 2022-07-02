@@ -2,7 +2,7 @@
     "grid": [
         [
             null,
-            4,
+            8,
             8,
             2
         ],
@@ -10,22 +10,22 @@
             null,
             null,
             32,
-            8
+            16
         ],
         [
             null,
             null,
-            null,
-            8
-        ],
-        [
-            null,
-            4,
             null,
             2
+        ],
+        [
+            null,
+            2,
+            null,
+            null
         ]
     ],
-    "score": 180,
+    "score": 204,
     "bestScore": 0,
     "moves": [
         "@smintf",
@@ -59,6 +59,7 @@
         "@some-du6e",
         "@JoRo-Code",
         "@JoRo-Code",
-        "@JoRo-Code"
+        "@JoRo-Code",
+        "@xqwtxon"
     ]
 }
