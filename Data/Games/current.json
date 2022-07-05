@@ -2,27 +2,27 @@
     "grid": [
         [
             null,
-            8,
-            8,
+            null,
+            null,
+            null
+        ],
+        [
+            2,
+            null,
+            null,
             2
         ],
         [
             null,
-            null,
-            32,
+            8,
+            8,
             16
         ],
         [
             null,
-            null,
-            null,
-            2
-        ],
-        [
-            null,
             2,
-            null,
-            null
+            32,
+            2
         ]
     ],
     "score": 204,
@@ -60,6 +60,7 @@
         "@JoRo-Code",
         "@JoRo-Code",
         "@JoRo-Code",
+        "@xqwtxon",
         "@xqwtxon"
     ]
 }
