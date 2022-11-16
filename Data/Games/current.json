@@ -1,31 +1,31 @@
 {
     "grid": [
         [
+            2,
             null,
+            null,
+            null
+        ],
+        [
+            4,
+            null,
+            null,
+            null
+        ],
+        [
+            32,
             null,
             null,
             null
         ],
         [
             2,
-            null,
-            null,
-            2
-        ],
-        [
-            null,
-            8,
-            8,
-            16
-        ],
-        [
-            null,
-            2,
             32,
-            2
+            2,
+            null
         ]
     ],
-    "score": 204,
+    "score": 256,
     "bestScore": 0,
     "moves": [
         "@smintf",
@@ -61,6 +61,7 @@
         "@JoRo-Code",
         "@JoRo-Code",
         "@xqwtxon",
-        "@xqwtxon"
+        "@xqwtxon",
+        "@TheRedstoneRadiant"
     ]
 }
