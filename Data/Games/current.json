@@ -2,30 +2,30 @@
     "grid": [
         [
             2,
-            32,
-            2,
-            2
+            null,
+            null,
+            null
         ],
         [
             4,
             null,
             null,
-            2
+            null
         ],
         [
             32,
             null,
-            null,
+            2,
             null
         ],
         [
             2,
-            null,
-            null,
-            null
+            32,
+            2,
+            4
         ]
     ],
-    "score": 256,
+    "score": 260,
     "bestScore": 0,
     "moves": [
         "@smintf",
@@ -64,6 +64,7 @@
         "@xqwtxon",
         "@TheRedstoneRadiant",
         "@fo-od",
-        "@UshiHiraga"
+        "@UshiHiraga",
+        "@TheRedstoneRadiant"
     ]
 }
