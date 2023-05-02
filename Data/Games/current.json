@@ -1,31 +1,31 @@
 {
     "grid": [
         [
+            null,
             2,
             32,
-            4,
+            8
+        ],
+        [
+            null,
+            null,
+            2,
             4
         ],
         [
-            4,
             null,
             null,
-            null
+            null,
+            32
         ],
         [
-            32,
             null,
             null,
-            null
-        ],
-        [
-            2,
             null,
-            2,
-            null
+            4
         ]
     ],
-    "score": 264,
+    "score": 276,
     "bestScore": 0,
     "moves": [
         "@smintf",
@@ -66,6 +66,7 @@
         "@fo-od",
         "@UshiHiraga",
         "@TheRedstoneRadiant",
+        "@RVFET",
         "@RVFET"
     ]
 }

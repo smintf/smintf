@@ -101,10 +101,10 @@
 | [@JoRo-Code](https://github.com/JoRo-Code) | 3 |
 | [@VillainsRule4000](https://github.com/VillainsRule4000) | 2 |
 | [@xqwtxon](https://github.com/xqwtxon) | 2 |
+| [@RVFET](https://github.com/RVFET) | 2 |
 | [@some-du6e](https://github.com/some-du6e) | 1 |
 | [@fo-od](https://github.com/fo-od) | 1 |
 | [@UshiHiraga](https://github.com/UshiHiraga) | 1 |
-| [@RVFET](https://github.com/RVFET) | 1 |
 <!-- 2048Ranking -->
 
 </details>
