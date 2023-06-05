@@ -105,6 +105,7 @@
 | [@some-du6e](https://github.com/some-du6e) | 1 |
 | [@fo-od](https://github.com/fo-od) | 1 |
 | [@UshiHiraga](https://github.com/UshiHiraga) | 1 |
+| [@rfl890](https://github.com/rfl890) | 1 |
 <!-- 2048Ranking -->
 
 </details>
