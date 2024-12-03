@@ -184,7 +184,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="308.4171703282061" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="308.4171703282061" y="0" width="83.31809024335647" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="391.73526057156255" y="0" width="46.170146994552994" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="391.73526057156255" y="0" width="46.170146994552994" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="437.9054075661155" y="0" width="22.09459243388443" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
@@ -202,7 +202,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -2445,7 +2445,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 473k out of 203m repositories</span>
+                                    <span class="gh">ranked 473k out of 211m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">27</div>
                                     </div>
@@ -2662,7 +2662,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 800k out of 203m repositories</span>
+                                    <span class="gh">ranked 800k out of 211m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">38</div>
                                     </div>
@@ -2846,7 +2846,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 06:26:25 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 07:55:09 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
